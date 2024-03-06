@@ -1,0 +1,4 @@
+#Tue Sep 26 13:02:12 PKT 2023
+base.0=C\:\\Users\\Staffshaw\\Desktop\\invoice_automatic\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
